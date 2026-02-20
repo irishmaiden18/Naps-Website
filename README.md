@@ -2,7 +2,7 @@
 
 I was given jpegs of the desired pages for the site, then created the responsive, static multi-page site using HTML & CSS.
 
-Link to the site: https://irishmaiden18.github.io/naps_website/
+Link to site: https://irishmaiden18.github.io/naps_website/
 
 ![desktop website hompage image](https://github.com/irishmaiden18/naps_website/blob/main/images/naps_website_desktop_image.jpg)
 
