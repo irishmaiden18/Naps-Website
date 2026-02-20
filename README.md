@@ -1,6 +1,6 @@
 # A website for napping
 
-I was given a jpeg of the desired pages for the site, then coded the statuc multi-page site using HTML & CSS
+I was given a jpeg of the desired pages for the site, then coded the static multi-page site using HTML & CSS
 
 Link to the site: https://irishmaiden18.github.io/naps_website/
 
