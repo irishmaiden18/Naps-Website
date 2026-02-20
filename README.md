@@ -1,4 +1,4 @@
-# A website for napping
+# A Website for Napping
 
 I was given a jpeg of the desired pages for the site, then coded the static multi-page site using HTML & CSS
 
